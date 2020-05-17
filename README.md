@@ -4,10 +4,10 @@ Assignments for DL_CV_NLP course
 This repository contains all the assignments for DL_CV_NLP course.
 
 ## Table of Contents
-1. [Python](https://github.com/harshit-saraswat/Python_Assignments/tree/master/Python)
-2. [Pandas](https://github.com/harshit-saraswat/Python_Assignments/tree/master/Pandas)
-3. [NumPy](https://github.com/harshit-saraswat/Python_Assignments/tree/master/NumPy)
-4. [Visualization](https://github.com/harshit-saraswat/Python_Assignments/tree/master/Visualization)
+1. [Python](https://github.com/harshit-saraswat/DL_CV_NLP-Assignments/tree/master/Python)
+2. [Pandas](https://github.com/harshit-saraswat/DL_CV_NLP-Assignments/tree/master/Pandas)
+3. [NumPy](https://github.com/harshit-saraswat/DL_CV_NLP-Assignments/tree/master/NumPy)
+4. [Visualization](https://github.com/harshit-saraswat/DL_CV_NLP-Assignments/tree/master/Visualization)
 
 
 ## TODO
